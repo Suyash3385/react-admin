@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-admin/static/css/main.033b35e8.css",
+    "main.js": "/react-admin/static/js/main.d1b7fb3c.js",
+    "static/media/user.png": "/react-admin/static/media/user.83aa4820f6803c4cb891.png",
+    "index.html": "/react-admin/index.html",
+    "main.033b35e8.css.map": "/react-admin/static/css/main.033b35e8.css.map",
+    "main.d1b7fb3c.js.map": "/react-admin/static/js/main.d1b7fb3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033b35e8.css",
+    "static/js/main.d1b7fb3c.js"
+  ]
+}
